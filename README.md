@@ -22,7 +22,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b>Python</b>
-- [Python Scripts](https://github.com/RBallantine/python_scripts)
+- [Python Projects](https://github.com/RBallantine/python_projects)
 - [Practicing Algorithms](https://github.com/RBallantine/python_algorithm_practice)
 - [Python Course](https://github.com/RBallantine/PythonProgress)  
 
